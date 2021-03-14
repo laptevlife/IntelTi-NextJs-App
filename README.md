@@ -1,3 +1,4 @@
 # IntelTi-NextJs-App
 
- intelti.versel.app
+
+https://intelti.vercel.app/
